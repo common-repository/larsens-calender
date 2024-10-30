@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LarsensCalender\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-19 21:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: klaus <a@b.de>\n"
+"Language-Team: Lars <LarsHoyerswerda@web.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: larsen.php:79
+#: larsen.php:80
+#: larsen.php:81
+#: larsen.php:82
+#: larsen.php:83
+msgid "Kalender"
+msgstr ""
+
+#: larsen.php:80
+msgid "Eintr&auml;ge hinzuf&uuml;gen"
+msgstr ""
+
+#: larsen.php:81
+msgid "Eintr&auml;ge bearbeiten"
+msgstr ""
+
+#: larsen.php:82
+msgid "Eintr&auml;ge l&ouml;schen"
+msgstr ""
+
+#: larsen.php:83
+#: larsen.php:635
+msgid "Einstellungen"
+msgstr ""
+
+#: larsen.php:122
+msgid "Zur Zeit"
+msgstr ""
+
+#: larsen.php:125
+msgid " befinden"
+msgstr ""
+
+#: larsen.php:127
+msgid " befindet"
+msgstr ""
+
+#: larsen.php:129
+msgid " sich im Kalender:"
+msgstr ""
+
+#: larsen.php:133
+msgid "keine"
+msgstr ""
+
+#: larsen.php:133
+#: larsen.php:138
+msgid " Eintr&auml;ge"
+msgstr ""
+
+#: larsen.php:136
+msgid "ein"
+msgstr ""
+
+#: larsen.php:136
+msgid " Eintrag"
+msgstr ""
+
+#: larsen.php:144
+msgid " der nicht angezeigt wird, da er in der Vergangenheit liegt"
+msgstr ""
+
+#: larsen.php:146
+msgid " wovon <strong>ein</strong> vergangener Termin nicht mehr angezeigt wird"
+msgstr ""
+
+#: larsen.php:150
+msgid " wovon"
+msgstr ""
+
+#: larsen.php:151
+msgid " vergangene Termine nicht mehr angezeigt werden"
+msgstr ""
+
+#: larsen.php:156
+msgid "Die Termine:"
+msgstr ""
+
+#: larsen.php:190
+msgid "Vergangene Termine, die nicht mehr angezeigt werden:"
+msgstr ""
+
+#: larsen.php:359
+msgid "F&uuml;gen Sie einen Eintrag hinzu"
+msgstr ""
+
+#: larsen.php:386
+msgid "Eintrag erfolgreich gespeichert."
+msgstr ""
+
+#: larsen.php:392
+msgid "Der Eintrag konnte nicht hinzugef&uuml;gt werden. Sie haben keinen Titel f&uuml;r den Termin vergeben!"
+msgstr ""
+
+#: larsen.php:399
+#: larsen.php:524
+msgid "Datum und Zeit:"
+msgstr ""
+
+#: larsen.php:401
+#: larsen.php:527
+msgid "Tag:"
+msgstr ""
+
+#: larsen.php:406
+msgid "Monat"
+msgstr ""
+
+#: larsen.php:411
+#: larsen.php:537
+msgid "Jahr:"
+msgstr ""
+
+#: larsen.php:416
+#: larsen.php:542
+msgid "Stunde:"
+msgstr ""
+
+#: larsen.php:421
+#: larsen.php:547
+msgid "Minute:"
+msgstr ""
+
+#: larsen.php:423
+#: larsen.php:551
+msgid "Titel:"
+msgstr ""
+
+#: larsen.php:425
+#: larsen.php:557
+msgid "URL (optional)"
+msgstr ""
+
+#: larsen.php:428
+msgid "Eintrag hinzuf&uuml;gen"
+msgstr ""
+
+#: larsen.php:430
+msgid "hinzuf&uuml;gen"
+msgstr ""
+
+#: larsen.php:439
+msgid "L&ouml;schen Sie ausgew&auml;hlte Termine"
+msgstr ""
+
+#: larsen.php:445
+msgid "L&ouml;schung erfolgreich!"
+msgstr ""
+
+#: larsen.php:461
+msgid "Zu l&ouml;schende Termine w&auml;hlen"
+msgstr ""
+
+#: larsen.php:470
+msgid "Ausgew&auml;hlte Eintr&auml;ge l&ouml;schen"
+msgstr ""
+
+#: larsen.php:472
+msgid "L&ouml;schen"
+msgstr ""
+
+#: larsen.php:477
+#: larsen.php:570
+msgid "Es befinden sich zur Zeit keine Termine in der Datenbank"
+msgstr ""
+
+#: larsen.php:486
+msgid "Bearbeiten Sie Ihre Termine"
+msgstr ""
+
+#: larsen.php:506
+msgid "&Auml;nderung erfolgreich gespeichert."
+msgstr ""
+
+#: larsen.php:510
+msgid "Der Eintrag konnte nicht ge&auml;ndert werden. Sie haben keinen Titel f&uuml;r den Termin vergeben! Bitte wiederholen Sie den Vorang."
+msgstr ""
+
+#: larsen.php:532
+msgid "Monat:"
+msgstr ""
+
+#: larsen.php:560
+msgid "&Auml;nderdung speichern"
+msgstr ""
+
+#: larsen.php:561
+#: larsen.php:707
+msgid "speichern"
+msgstr ""
+
+#: larsen.php:575
+msgid "Termin w&auml;hlen:"
+msgstr ""
+
+#: larsen.php:584
+msgid "Augew&auml;hlten Eintrag bearbeiten"
+msgstr ""
+
+#: larsen.php:586
+msgid "Bearbeiten"
+msgstr ""
+
+#: larsen.php:607
+msgid "Sie haben den Kalender deinstalliert. Bitte deaktivieren Sie nun das Plugin!"
+msgstr ""
+
+#: larsen.php:614
+msgid "Bitte geben Sie eine positive ganze Zahl f&uuml;r die Anzahl maximal anzuzeigender Termine ein!"
+msgstr ""
+
+#: larsen.php:618
+msgid "Anzeige-Optionen erfolgreich gespeichert."
+msgstr ""
+
+#: larsen.php:625
+msgid "Speichern fehlgeschlagen! Bitte geben Sie eine ganze positive Zahl f&uuml;r die Extra-Zeit ein!"
+msgstr ""
+
+#: larsen.php:630
+msgid "Einstellungen erfolgreich gespeichert."
+msgstr ""
+
+#: larsen.php:639
+msgid "Anzeige-Optionen"
+msgstr ""
+
+#: larsen.php:647
+msgid "Deinstallieren"
+msgstr ""
+
+#: larsen.php:652
+msgid "LarsensCalender deinstallieren"
+msgstr ""
+
+#: larsen.php:656
+msgid "deinstallieren"
+msgstr ""
+
+#: larsen.php:658
+msgid "Bitte danach sofort in den plugin-Einstellungen Larsens Kalender deaktivieren"
+msgstr ""
+
+#: larsen.php:670
+msgid "Alte Eintr&auml;ge im Kalender sollen so behandelt werden:"
+msgstr ""
+
+#: larsen.php:675
+#: larsen.php:691
+msgid "alte Eintr&auml;ge anzeigen"
+msgstr ""
+
+#: larsen.php:678
+#: larsen.php:694
+msgid "alte Eintr&auml;ge automatisch l&ouml;schen"
+msgstr ""
+
+#: larsen.php:681
+#: larsen.php:697
+msgid "alte Eintr&auml;ge nicht anzeigen"
+msgstr ""
+
+#: larsen.php:684
+msgid "alte Eint&auml;ge erst nach unten angegebener Zeit l&ouml;schen:"
+msgstr ""
+
+#: larsen.php:685
+msgid "Extra-Zeit in Stunden f&uuml;r vierte Option:"
+msgstr ""
+
+#: larsen.php:688
+msgid "Zur Zeit sind diese Einstellungen gesetzt:"
+msgstr ""
+
+#: larsen.php:699
+msgid "alte Eintr&auml;ge werden noch "
+msgstr ""
+
+#: larsen.php:701
+msgid " Stunden angezeigt"
+msgstr ""
+
+#: larsen.php:706
+msgid "Einstellungen speichern"
+msgstr ""
+
+#: larsen.php:772
+msgid "Internationales Format / Deutsches Format"
+msgstr ""
+
+#: larsen.php:776
+msgid "Deutsches Format verwenden (Dann die folgenden Optionen weiter unten setzen)"
+msgstr ""
+
+#: larsen.php:776
+msgid "internationale Formate:"
+msgstr ""
+
+#: larsen.php:777
+msgid "October 5th, 2008 9.00 am"
+msgstr ""
+
+#: larsen.php:778
+msgid "5th October 2008 9.00 am"
+msgstr ""
+
+#: larsen.php:779
+msgid "5 Oct 2008 9.00 am"
+msgstr ""
+
+#: larsen.php:783
+msgid "Tag anzeigen:"
+msgstr ""
+
+#: larsen.php:786
+msgid "Tag im Datum anzeigen"
+msgstr ""
+
+#: larsen.php:787
+msgid "Den Monat wie folgt anzeigen:"
+msgstr ""
+
+#: larsen.php:788
+msgid "Monat nicht anzeigen"
+msgstr ""
+
+#: larsen.php:789
+msgid "Monat als zahl anzeigen, z.B.: 03.09.2009"
+msgstr ""
+
+#: larsen.php:790
+msgid "kompletten Mosnatsnamen anzeigen, z.B.: 03. September 2009"
+msgstr ""
+
+#: larsen.php:791
+msgid "Monatsnamen abgekuerzt anzeigen, z.B.: 03. Sep 2009"
+msgstr ""
+
+#: larsen.php:792
+msgid "Jahr anzeigen:"
+msgstr ""
+
+#: larsen.php:794
+msgid "Jahr im Datum anzeigen"
+msgstr ""
+
+#: larsen.php:795
+msgid "Die Uhrzeit wie folgt anzeigen:"
+msgstr ""
+
+#: larsen.php:796
+msgid "Uhrzeit nicht anzeigen"
+msgstr ""
+
+#: larsen.php:797
+msgid "Minuten nicht mit anzeigen, z.B.: 21 Uhr"
+msgstr ""
+
+#: larsen.php:798
+msgid "Uhrzeit komplett anzeigen, z.B.: 21:30 Uhr"
+msgstr ""
+
+#: larsen.php:799
+msgid "Trennzeichen f&uuml;r Datum, Uhrzeit, Name w&atilde;hlen"
+msgstr ""
+
+#: larsen.php:800
+msgid " Standardeinstellung ist ein Leerzeichen."
+msgstr ""
+
+#: larsen.php:803
+msgid "Wie sollen die Termine geordnet werden?"
+msgstr ""
+
+#: larsen.php:805
+msgid "&Auml;ltester Eintrag an der Spitze, neuester ganz unten"
+msgstr ""
+
+#: larsen.php:807
+msgid "&Auml;ltester Eintrag ganz unten, neuster ganz oben"
+msgstr ""
+
+#: larsen.php:808
+msgid "Maximale Anzahl anzuzeigender Termine:"
+msgstr ""
+
+#: larsen.php:808
+msgid "(Wenn alle Termine angezeigt werden sollen, bitte 0 eingeben)"
+msgstr ""
+
+#: larsen.php:811
+msgid "Zur Zeit sind diese Anzeige-Optionen gesetzt:"
+msgstr ""
+
+#: larsen.php:814
+msgid "Tag im Datum anzeigen, "
+msgstr ""
+
+#: larsen.php:816
+msgid "Tag nicht im Datum anzeigen, "
+msgstr ""
+
+#: larsen.php:819
+msgid "Monat wird nicht angezeiegt, "
+msgstr ""
+
+#: larsen.php:822
+msgid "Monat wird als Zahl angezeigt, "
+msgstr ""
+
+#: larsen.php:825
+msgid "kompletter Monatsname wird angezeigt, "
+msgstr ""
+
+#: larsen.php:828
+msgid "Monatsname wird abgek&uuml;rzt angezeigt, "
+msgstr ""
+
+#: larsen.php:834
+msgid "Jahr wird im Datum angezeigt, "
+msgstr ""
+
+#: larsen.php:836
+msgid "Jahr wird nicht im Datum angezeigt, "
+msgstr ""
+
+#: larsen.php:839
+msgid "Uhrzeit wird nicht angezeigt "
+msgstr ""
+
+#: larsen.php:842
+msgid "Minuten werden in der Uhrzeit nicht angezeigt"
+msgstr ""
+
+#: larsen.php:845
+msgid "Uhrzeit wird komplett angezeigt"
+msgstr ""
+
+#: larsen.php:850
+msgid ", alle Termine werden angezeigt"
+msgstr ""
+
+#: larsen.php:853
+msgid " Termine werden maximal angezeigt"
+msgstr ""
+
+#: larsen.php:857
+msgid "Anzeige-Optionen speichern"
+msgstr ""
+
+#: larsen.php:874
+msgid "Larsens und Nicks Kalender Version 0.2"
+msgstr ""
+
+#: larsen.php:875
+#: larsen.php:876
+msgid "Larsens Calender"
+msgstr ""
+
+#: larsen.php:880
+msgid "Dieses Widget hat keine gesonderten Eingstellungen. Im Men&uuml; \\\"Kalender\\\" finden Sie die Einstellungen."
+msgstr ""
+

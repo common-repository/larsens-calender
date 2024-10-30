@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.LCtable{ width: 100%; border: 0px;}
+
+.LC1{}
+.LC2{}
+.LCold{}
+
+a.LClink1{}
+a.LClink1:hover{}
+
+a.LClink2{}
+a.LClink2:hover{}
+
+a.LClinkOld{}
+a.LClinkOld:hover{}
+
+.LCEmpty{height: 2px;}
